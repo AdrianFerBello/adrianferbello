@@ -7,16 +7,16 @@
 - 💻 Desenvolvedor Back-End com foco em C# e ASP.NET Core
 
 
-<h4>🚀 Sobre mim </h4>
+<h3>🚀 Sobre mim </h3>
   
 Sou apaixonado por tecnologia, com uma base sólida em desenvolvimento de software e uma jornada contínua de aprendizado. Minha especialidade é o Back-End, onde utilizo C# com ASP.NET Core para construir APIs robustas, escaláveis e seguras.
 
 Atualmente, estou expandindo meus conhecimentos através de um segundo curso superior, buscando sempre evoluir como profissional e como pessoa na área de tecnologia.
-
+<br>
 <div>
   <a href="https://github.com/AdrianFerBello">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianferbello&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianferbello&layout=compact&langs_count=16&theme=dark"/>
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianferbello&layout=compact&langs_count=16&theme=dark"/>--->
   </a>
 </div>
 
@@ -29,7 +29,7 @@ Atualmente, estou expandindo meus conhecimentos através de um segundo curso sup
 </div>
 
 ##
-
+<h3>📬 Contatos</h3>
 <div> 
   <a href="https://www.instagram.com/_fernandesadrian/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "Adrianferbello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
